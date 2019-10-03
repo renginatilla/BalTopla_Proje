@@ -1,5 +1,5 @@
 # BalTopla_Proje
-This game was made with Unity. Bee is collecting honey from flowers by overcoming obstacles.
+This game was made with Unity. Bee is collecting honey from flowers by overcoming obstacles. Suitable for mobile platforms.
 # Project Display Image
 <p>
 <a href="https://github.com/renginatilla/BalTopla_Proje/blob/master/img/baltopla1.png" target="_blank">
